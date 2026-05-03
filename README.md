@@ -6,7 +6,7 @@ Built with Flutter + Supabase.
 
 ## Setup
 
-**1. Create a Supabase project** at [supabase.com](https://supabase.com)
+**1. Create a Supabase project**
 
 **2. Run the database schema**
 - Go to SQL Editor in your Supabase dashboard
